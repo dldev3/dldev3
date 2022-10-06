@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dldev3 (Dilshanka Liyanage)
 - 👀 I’m interested in Shopify, Go and Javascript
-- 🌱 I’m currently learning Shopify
+- 🌱 I’m currently learning Shopify development
 - 📫 How to reach me ... DM me on twitter
 
 <!---
