@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dldev3 (Dilshanka Liyanage)
-- 👀 I’m interested in Shopify, Go, Javascript and AWS
+- 👀 I’m interested in Shopify, Go, Javascript, Laravel, Rails and AWS
 - 🌱 I’m currently learning Shopify development
 - 📫 How to reach me ... DM me on [Twitter](https://twitter.com/dilshankaL)
 - 💞️ I’m looking to collaborate on Shopify projects
