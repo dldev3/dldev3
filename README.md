@@ -36,7 +36,7 @@ Full-Stack Web Developer and SEO Expert
                     </a></p>
 
 
-Passionate and skilled Full-Stack Web Developer. I'm crafting dynamic and responsive web applications. Specializing in a robust tech stack that includes React, Javascript, Typescript, Shopify, Golang, AWS, and GCP
+Passionate and skilled Full-Stack Web Developer. I'm crafting dynamic and responsive web applications. Specializing in a robust tech stack that includes React, Javascript, Typescript, NextJS, Shopify, Golang, AWS, and GCP
 
 *   🌍  I'm based in Colombo, Sri Lanka
 *   🖥️  See my portfolio at [Here](http://dilshankaliyanage.com)
