@@ -1,6 +1,6 @@
 
-Hi 👋 My name is Dilshanka Liyanage
-===================================
+Hi 👋 I'm Dilshanka
+====================
 
 Full-Stack Web Developer and SEO Expert
 ---------------------------------------
