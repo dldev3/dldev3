@@ -38,7 +38,7 @@ Full-Stack Web Developer and SEO Expert
 
 Passionate and skilled Full-Stack Web Developer. I'm crafting dynamic and responsive web applications. Specializing in a robust tech stack that includes React, Javascript, Typescript, NextJS, Shopify, Golang, AWS, and SEO. I am loving to be working with no-code and low-code tools like Webflow, Wix and Squarespace.
 
-*   🌍  I'm based in Colombo, Sri Lanka
+*   🌍  I'm based in Sri Lanka
 *   🖥️  See my portfolio at [Here](http://dilshankaliyanage.com)
 *   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on Shopify projects
